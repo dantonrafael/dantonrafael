@@ -37,3 +37,5 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![TCP/IP](https://img.shields.io/badge/-TCP%2FIP-000?&logo=Windows-Terminal&logoColor=999)
 ![Travis](https://img.shields.io/badge/-Travis-000?&logo=Travis-CI)
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=dantonrafael)

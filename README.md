@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Danton Rafael</h1>
-<h3 align="center">A Site Reliability Enginner from Brazil</h3>
+<h3 align="center">A Site Reliability Engineer from Brazil</h3>
 
 
 - 🔭 I’m currently working on <a href="https://zoop.com.br/">**Zoop**</a>
 
 - 📚 Student at <a href="http://www.uff.br/"> Universidade Federal Fluminense</a>
 
-- 💬 Ask me about **Python, GCP, Azure, DevOps, Site Realiability Enginnering**
+- 💬 Ask me about **Python, GCP, Azure, DevOps, Site Reliability Engineering**
 
 - 📫 How to reach me **danttonrafael@gmail.com**
 

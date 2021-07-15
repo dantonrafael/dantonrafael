@@ -2,9 +2,9 @@
 <h3 align="center">A Site Reliability Engineer from Brazil</h3>
 
 
-- 🔭 I’m currently working on <a href="https://zoop.com.br/">**Zoop**</a>
+- 🔭 I’m currently working on <a href="https://www.grupoboticario.com.br/en/Pages/Home.aspx">**Grupo Boticario**</a>
 
-- 📚 Student at <a href="http://www.uff.br/"> Universidade Federal Fluminense</a>
+- 📚 I'm currently learning GoLang and Data Architecture
 
 - 💬 Ask me about **Python, GCP, Azure, DevOps, Site Reliability Engineering**
 

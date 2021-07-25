@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Danton Hastenreiter</h1>
-<h3 align="center">A big passion for DevOps culture and agile development methodologies.</h3>
+<h3 align="center">I'm 21 years old and currently my bread and butter is solve IT problems :)</h3>
 
-- 🔭 I’m currently working on **Grupo Boticario**
+- 🔭 I’m currently working as Data Reliability Specialist on **Grupo Boticario**
 
 - 🌱 I’m currently learning **GoLang and Data Architecture**
 
 - 👯 I’m looking to collaborate on **Open Source projects**
 
-- 💬 Ask me about **Cloud, DevOps, Python or just call to drink a beer 😁**
+- 💬 Ask me about **Cloud, DevOps, Python or just let's go out for a drink😁**
 
 - 📫 How to reach me **danttonrafael@gmail.com**
 
